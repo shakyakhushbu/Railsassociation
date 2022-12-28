@@ -1,0 +1,16 @@
+current directory: /home/rails/Documents/associations/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+/home/rails/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/rails/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20221228-6540-n6a01t.rb extconf.rb
+creating Makefile
+
+current directory: /home/rails/Documents/associations/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/rails/Documents/associations/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/rails/Documents/associations/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug.so ./.gem.20221228-6540-fqr0x4/debug
